@@ -1,2 +1,2 @@
-xxyyy
+new thing
 this is the second line
